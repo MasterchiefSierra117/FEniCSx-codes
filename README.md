@@ -2,8 +2,6 @@
 
 # FEniCSx Research Codes
 
-![FEniCSx Logo](https://fenicsproject.org/pub/fenics-site/latest/_static/fenics-banner.svg)
-
 ## 🔬 Overview
 This repository contains all the coding examples and projects I used while **learning and using FEniCSx** for my research in **numerical PDEs, finite element methods (FEM), and computational fluid dynamics (CFD)**.
 
